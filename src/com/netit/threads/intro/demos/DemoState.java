@@ -1,3 +1,5 @@
+// © 2022 Anna Vasileva. All rights reserved.
+
 package com.netit.threads.intro.demos;
 
 import java.lang.Thread.State;

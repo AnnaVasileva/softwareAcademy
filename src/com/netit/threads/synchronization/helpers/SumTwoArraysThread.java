@@ -1,3 +1,5 @@
+// © 2022 Anna Vasileva. All rights reserved.
+
 package com.netit.threads.synchronization.helpers;
 
 import java.util.concurrent.Callable;

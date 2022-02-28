@@ -1,3 +1,5 @@
+// © 2022 Anna Vasileva. All rights reserved.
+
 package com.netit.threads.synchronization.demos;
 
 import com.netit.threads.synchronization.helpers.MultiplySyncMethod;
