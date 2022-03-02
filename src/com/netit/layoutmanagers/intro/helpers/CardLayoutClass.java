@@ -1,3 +1,5 @@
+// © 2022 Anna Vasileva. All rights reserved.
+
 package com.netit.layoutmanagers.intro.helpers;
 
 import java.awt.CardLayout;
