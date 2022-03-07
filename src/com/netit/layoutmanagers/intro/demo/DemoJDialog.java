@@ -1,3 +1,5 @@
+// © 2022 Anna Vasileva. All rights reserved.
+
 package com.netit.layoutmanagers.intro.demo;
 
 import java.awt.FlowLayout;
