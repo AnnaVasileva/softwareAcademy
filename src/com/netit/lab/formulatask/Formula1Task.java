@@ -8,8 +8,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-import com.netit.draft.lab.formula1.DriverF1;
-
 public class Formula1Task {
 
 	private static final int TOTAL_RACE_NUMBER = 22;

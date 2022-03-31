@@ -7,8 +7,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import com.netit.draft.lab.formula1.DriverF1;
-
 public class RaceRsult {
 
 	private Map<DriverF1, Team> firstDriver;
