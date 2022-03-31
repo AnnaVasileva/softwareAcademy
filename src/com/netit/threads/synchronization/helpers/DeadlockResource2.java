@@ -24,7 +24,7 @@ public class DeadlockResource2 extends Thread {
 			}
 
 			synchronized (resource1) {
-				System.out.println("Thread 2: locked" + resource1);
+				System.out.println("Thread 2: locked " + resource1);
 			}
 		}
 	}

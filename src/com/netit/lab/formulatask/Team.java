@@ -4,8 +4,6 @@ package com.netit.lab.formulatask;
 
 import java.util.List;
 
-import com.netit.draft.lab.formula1.DriverF1;
-
 public class Team {
 
 	private String name;
